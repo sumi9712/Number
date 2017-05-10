@@ -60,9 +60,9 @@ public class NumberApp {
 		Numberinwords = "number not found";
 		break;
 	}
-		
+	  
 		System.out.println("Number in words: " + Numberinwords);
-	
+		 sc.close();
 	}
 
 	
